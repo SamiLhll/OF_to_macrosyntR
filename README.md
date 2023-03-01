@@ -15,7 +15,7 @@ Shell script to post-process OrthoFinder's output into pairwise tables used in m
 tar -xzf OF_to_macrosyntR.tar.gz
 ```
 
-(OPTIONAL) you can add an alias to your ~/.bashrc so you can run the script by typing OF_to_macrosyntR in the terminal.   
+* (OPTIONAL) add an alias to your ~/.bashrc so you can run the script by typing OF_to_macrosyntR in the terminal.   
 To do it type the following command, replacing *<path_to_OF_to_macrosyntR.sh>* by the actual path of this file on your machine :
 
 ```{bash}
