@@ -1,5 +1,5 @@
 # OF_to_macrosyntR
-Shell scripts to post-process OrthoFinder's output into pairwise tables usage in macrosyntR 
+Shell script to post-process OrthoFinder's output into pairwise tables used in macrosyntR 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
