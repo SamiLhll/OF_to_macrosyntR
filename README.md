@@ -8,7 +8,7 @@ Shell script to post-process OrthoFinder's output into pairwise tables used in m
 
 * download :
 ```{bash}
- wget https://github.com/SamiLhll/OF_to_macrosyntR/releases/download/V1.0.2/OF_to_macrosyntR.tar.gz
+ wget https://github.com/SamiLhll/OF_to_macrosyntR/releases/download/V1.0.1/OF_to_macrosyntR.tar.gz
 ```
 * uncompress :
 ```{bash}
